@@ -14,7 +14,7 @@ pip install qrcode
 ```bash
 #Write this Code in file with .py extension
 #pip install qrcode......
-#CodeAx
+#CodeAx1
 import qrcode
 
 #run code directly on terminal
